@@ -1,0 +1,63 @@
+#contenidos{
+   width: 1000px;
+   height: auto;
+   margin: auto;
+   position: relative;	
+}
+
+body{
+	background-image: url(../img/Fondo3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Arvo', serif;
+	color: red;
+	margin-left: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Arvo', serif;
+	color: blue;
+	font-size: 15px;
+	text-align: center;
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;
+}
+
+li{
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+	background: white;
+	color: blue;
+}
+
+footer{
+	width: 1000px;
+	height: 50px;
+	background: orange;
+	float: left;
+	margin-top: 210px;
+	border-radius: 10px;
+}
+
+p{
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+	background: white;
+	color: blue;
+}
+
+
