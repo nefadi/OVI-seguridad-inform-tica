@@ -50,7 +50,7 @@ text-align: center;
 header{
 	width: 1000px;
 	height: 120 px;
-	background: white;
+	background: none;
 	border-radius: 10px;
 }
 
