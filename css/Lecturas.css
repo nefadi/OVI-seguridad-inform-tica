@@ -89,8 +89,8 @@ figure{
 
 
 section{
-	width: 700px;
-	background: #F2B80D;
+	width: 1000px;
+	background: rgba(0, 88, 131, 0.5);
 	height: auto;
 	float: left;
 	margin-top: 20px;
